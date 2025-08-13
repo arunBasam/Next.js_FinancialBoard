@@ -36,7 +36,7 @@ A comprehensive financial dashboard built with Next.js 14, featuring real-time d
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd financial-dashboard
+cd project
 ```
 
 2. Install dependencies:
